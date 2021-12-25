@@ -1,0 +1,27 @@
+[ { "name" : "ess vs ca" , 
+  "price": 64000 , 
+  "categorie": "copa" ,
+  "rating": 4.5 ,
+  "date" : "",
+  "ticketNumber": 50000 ,
+  "reviwNumber":0 ,
+  "reviews": [],
+  "place": "radess" ,
+  "images": [
+    {
+      "public_id": "kjdhehfdjekfk" ,
+      "url": "fkjrlfhjghjl"
+    }] } , { "name" : "est vs ca" , 
+  "price": 8000 , 
+  "categorie": "copa" ,
+  "rating": 4.5 ,
+  "date" : "",
+  "ticketNumber": 50000 ,
+  "reviwNumber":0 ,
+  "reviews": [],
+  "place": "radess" ,
+  "images": [
+    {
+      "public_id": "kjdhehfdjekfk" ,
+      "url": "fkjrlfhjghjl"
+    }] } ]
